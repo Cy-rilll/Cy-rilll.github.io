@@ -1,5 +1,4 @@
-[index.html](https://github.com/user-attachments/files/31187930/index.html)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/31187930/index.html)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -142,7 +141,7 @@
 <!-- ============ CONTACT ============ -->
 <section class="contact" id="contact">
   <p class="section-label">Contact</p>
-  <a class="contact__email" href="mailto:you@example.com">you@example.com</a>
+  <a class="contact__email" href="mailto:not.cyrilll@gmail.com">you@example.com</a>
   <div class="contact__socials">
     <a href="#">Instagram</a>
     <a href="#">YouTube</a>
